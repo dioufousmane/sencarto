@@ -13,3 +13,5 @@ dependencies:
   - rasterstats
   - jupyter
   - jupyterlab
+  - adjustText
+  - matplotlib_scalebar
