@@ -14,4 +14,3 @@ dependencies:
   - jupyter
   - jupyterlab
   - adjustText
-  - matplotlib.scalebar
